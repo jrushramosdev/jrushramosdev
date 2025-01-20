@@ -1,9 +1,13 @@
-## Hi there 👋
+### Hi there 👋
 
-🧑‍💻 I'm Russelle from Philippines!
-💻 Software Engineer with 9 years of experience
+🧑‍💻 I'm Russelle from Philippines!  
+💻 Software Engineer with 9 years of experience  
+
+###
 
 ## Languages
+
+###
 
 <!--
 **jrushramosdev/jrushramosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
