@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🧑‍💻 I'm Russelle from Philippines!
-💻 Software Engineer with 9 years of experience
+- 🧑‍💻 I'm Russelle from Philippines!
+- 💻 Software Engineer with 9 years of experience
 
 ## Languages
 
