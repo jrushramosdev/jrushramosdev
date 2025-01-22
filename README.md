@@ -8,6 +8,13 @@
 ###
 
 ## Languages
+<img
+  src="[https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png](https://github.com/user-attachments/assets/f0f9017a-bfd9-46fe-86ba-cc2205e75a10)"
+  height="50"
+  alt="Angular"
+  title="Angular"
+/>
+<img width="7" />
 
 ###
 
