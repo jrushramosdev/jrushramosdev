@@ -72,7 +72,7 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=%23181717&labelColor=%23ebebeb&color=%23181717)
 
 ## Future Project
-My future project is related to a video games WWE 2K. My imagination and ideas of playing this video games push me to plan this application.
+My future project is related to a video games WWE 2K. My imagination and ideas of playing this video games pushed me to plan this application.
 This is also to practice and improve my programming skills for both front-end and back-end as a full stack developer by creating an angular application and API services.
 
 Features:
