@@ -72,10 +72,9 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=%23181717&labelColor=%23ebebeb&color=%23181717)
 
 ## Future Projects
-My future project is related to a video games WWE 2K. My imagination and ideas of playing this video games pushed me to plan this application.
-This is also to practice and improve my programming skills for both front-end and back-end as a full stack developer by creating an angular application and API services.
+My future project is inspired by my passion for WWE 2K video games and the ideas I have developed through playing them. This application will serve as a platform to bring those ideas to life while providing a practical opportunity to enhance my programming skills as a full-stack developer. By building an Angular-based front end and back-end API services, I aim to strengthen my knowledge of both front-end and back-end development while creating an application that reflects my interests and creativity.
 
 Features:
 - Management libraries (ie. superstars, titles, faction, shows, etc...)
 - Listing of PLE matches
-- Dashboard of Analytics, logs, and history...
+- Dashboard of Superstar analytics, logs, and history...
